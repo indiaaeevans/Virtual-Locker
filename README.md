@@ -1,4 +1,4 @@
-# SafeKeeper (Formerly known as Virtual-Locker) :lock:
+# SafeKeeper :lock: Full-stack home inventory application using MySQL, jQuery, and Bootstrap.
 
 #### A personal inventory for insurance, theft or relocation purposes.  
 
