@@ -1,6 +1,7 @@
-# SafeKeeper :lock: Full-stack home inventory application using MySQL, jQuery, and Bootstrap.
+# SafeKeeper :lock:
 
-#### A personal inventory for insurance, theft or relocation purposes.  
+#### Keep track of your personal inventory for insurance, theft or relocation purposes.
+#### Application built with MySQL, jQuery, and Bootstrap.  
 
 ## CONTENTS
 [:bust_in_silhouette: Sign in or Sign up](#user)
